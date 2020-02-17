@@ -18,7 +18,40 @@ NIL
 - course objective 1
 - course objective 2
 
-
+OBJECTIVES
+· To understand the concepts of ADT
+· To comprehend the notion of linearand nonlineardatastructures
+· To design suitable datastructures for different problems andimplement themin a high
+· level programming language
+· To understand the different typesof searching and sorting techniques
+· To learn the introductory concepts of hashing techniques.
+UNIT I LINEAR DATA STRUCTURES – LIST 10
+Algorithm Analysis: Running time calculations; Abstract Data Types (ADTs); List ADT: Array
+implementation of lists – Linked lists – Circular linked lists – Doubly linked lists – Applications
+of Lists: Polynomial manipulation.
+UNIT II LINEAR DATA STRUCTURES – STACKS AND QUEUES 8
+Stack ADT: Stack model – Implementation of stacks – Applications: Balancing symbols – Infix
+to postfix conversion – Evaluating postfix expressions; Queue ADT: Queue model – Array
+implementation of queues – Applications of queues.
+UNIT III NONLINEAR DATA STRUCTURES – TREES 9
+Preliminaries: Implementation of trees – Tree traversals with an application; Binary trees:
+Expression trees; Binary search tree ADT; AVL trees; BTrees; Priority Queues: Binary heap.
+UNIT IV NONLINEAR DATA STRUCTURES – GRAPHCS 9
+Graph Algorithms: Definitions – Representation of graphs; Graph Traversals: Breadth first
+traversal – Depth first traversal; Topological sort – Shortest Path Algorithms: Dijkstra’s
+algorithm – All pairs shortest path.
+UNIT V SEARCHING, SORTING AND HASHING TECHNIQUES 9
+Searching: Linear search – Binary search; Sorting: Selection sort - Merge sort. Hashing: Hash
+function – Separate chaining – Open addressing – Rehashing – Extendible hashing.
+TOTAL PERIODS: 45
+OUTCOMES
+On successful completion of this course, the student will be able to
+· Elucidate and implement various operations of List (K3)
+· Develop applications using stack and queue (K3)
+· Implement the operations of balanced and unbalanced trees (K3)
+· Develop applications using shortest path and traversal algorithms of graph(K3)
+· Choose suitable searching and sorting algorithms to solve various computing problems
+(K4).
 {{{unit}}}
 |UNIT I|TITLE|9| 
 
