@@ -50,6 +50,20 @@ After the completion of this course, students will be able to:
 - Course Outcomes 5 (<Knowledg Level No>K3)
 
 ** TEXT BOOKS
-    
+    TEXTBOOKS
+1. M A Weiss, “DataStructures andAlgorithm Analysis in C”, 2nd Edition, Pearson
+Education, 2002.
+2. RichardF Gilberg,Behrouz A Frouzan, “DataStructures: A PseudocodeApproach with
+C”, 2nd Edition,Cengage India,2007.
+REFERENCE BOOKS
+1. A V Aho,J E Hopcroft, J D Ullman,“DataStructures andAlgorithms”, Pearson Education,
+1st EditionReprint, 2003.
+2. R F Gilberg,B A Forouzan, “DataStructures”, 2nd Edition,Thomson India Edition,2005.
+3. Ellis Horowitz, SartajSahni,SusanAndersonFreed, “FundamentalsofData Structures in
+C”, 2nd Edition,University Press, 2008.
+4. S Sridhar, “Designand Analysis of Algorithms “, 1st Edition,OxfordUniversityPress,
+2014.
+5. Byron Gottfried, Jitender Chhabra, “Programming with C” (Schaum’s Outline Series),
+3rd Edition,McGrawHill Higher Education, 2010.
 
 ** REFERENCES
